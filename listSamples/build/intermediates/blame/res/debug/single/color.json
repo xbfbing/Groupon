@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Groupon\\listSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\AndroidStudioProjects\\Groupon\\viewpagerIndicator_library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Groupon\\listSamples\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\AndroidStudioProjects\\Groupon\\viewpagerIndicator_library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
+    }
+]
